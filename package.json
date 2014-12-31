@@ -1,0 +1,21 @@
+{
+  "name": "passport-sitegate",
+  "version": "0.0.1",
+  "description": "SiteGate authentication strategy for Passport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "sesame",
+    "auth",
+    "authentication"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "passport-oauth2": "~1.1.2",
+    "util": "~0.10.3"
+  }
+}
