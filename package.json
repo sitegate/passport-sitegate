@@ -1,14 +1,14 @@
 {
   "name": "passport-sitegate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SiteGate authentication strategy for Passport.",
-  "main": "index.js",
+  "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "passport",
-    "sesame",
+    "sitegate",
     "auth",
     "authentication"
   ],
